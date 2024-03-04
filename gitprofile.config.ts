@@ -57,8 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'brandon-nguyen-75a914206',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -72,8 +71,8 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '571-405-0830',
+    email: 'bqnguyen2002@gmail.com',
   },
   resume: {
     fileUrl:
@@ -97,18 +96,32 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Azure Summit Technology',
+      position: 'Software Engineer',
+      from: 'January 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.azuresummit.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Signature Federal Credit Union',
+      position: 'IT Core System Programmer',
+      from: 'June 2023',
+      to: 'January 2024',
+      companyLink: 'https://www.signaturefcu.org/',
+    },
+    {
+      company: 'Craxel Inc.',
+      position: 'Software Engineer Intern',
+      from: 'June 2022',
+      to: 'August 2022',
+      companyLink: 'https://www.craxel.com/',
+    },
+    {
+      company: 'Happy Mobility',
+      position: 'Embedded Software Engineer Intern',
+      from: 'July 2020',
+      to: 'October 2021',
+      companyLink: 'https://thehmlab.com/',
     },
   ],
   certifications: [
