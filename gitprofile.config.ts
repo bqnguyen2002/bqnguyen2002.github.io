@@ -33,7 +33,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Brandon Nguyen',
     description: '',
     imageURL: '',
   },
