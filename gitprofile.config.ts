@@ -58,19 +58,19 @@ const CONFIG = {
   },
   social: {
     linkedin: 'brandon-nguyen-75a914206',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '571-405-0830',
     email: 'bqnguyen2002@gmail.com',
   },
@@ -79,20 +79,19 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Java',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'C',
+    'C++',
+    'Bash',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Powershell',
+    'Bash',
+    'HTML/CSS',
+    'Flask',
   ],
   experiences: [
     {
@@ -134,10 +133,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'College of William and Mary',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: 'August 2020',
+      to: 'May 2023',
     },
     {
       institution: 'Institution Name',
@@ -219,16 +218,7 @@ const CONFIG = {
       'dracula',
       'cmyk',
       'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
+      defaultTheme: 'business'
     ],
 
     // Custom theme, applied to `procyon` theme
