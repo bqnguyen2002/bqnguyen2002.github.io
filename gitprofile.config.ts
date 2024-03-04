@@ -218,7 +218,7 @@ const CONFIG = {
       'dracula',
       'cmyk',
       'autumn',
-      defaultTheme: 'business'
+      'business'
     ],
 
     // Custom theme, applied to `procyon` theme
