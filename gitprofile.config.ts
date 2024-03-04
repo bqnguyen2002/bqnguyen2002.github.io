@@ -29,6 +29,11 @@ const CONFIG = {
       },
     },
     external: {
+      header: 'My Projects',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+      ],
+    },
   },
   seo: {
     title: 'Portfolio of Ariful Alam',
